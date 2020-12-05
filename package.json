@@ -1,0 +1,14 @@
+{
+  "name": "testpostserver",
+  "version": "1.0.0",
+  "description": "learning post requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
